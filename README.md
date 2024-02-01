@@ -34,3 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Noteable 
+
+Imagine a digital workspace where your ideas, plans, and projects come to life - that's Noteable! Crafted for the modern thinker, Noteable is an innovative web-based tool inspired by the versatility of Notion, yet with its own unique flair. It’s designed to be intuitive, user-friendly, and perfect for learners, professionals, and creative minds alike.
+
+
+
+
