@@ -3,6 +3,7 @@
 import { useScrollTop } from "@/hooks/use-scroll-top";
 import { cn } from "@/lib/utils";
 import { Logo } from "./logo";
+import { ModeToggle } from "@/components/mode-toggle";
 
 
 
@@ -18,7 +19,7 @@ export const Navbar = () => {
             <Logo/>
 
             <div className="md:ml-auto md:justify-end justify-between w-full flex items-center gap-x-2">
-                Login 
+                <ModeToggle/> 
             </div>
         </div>
     )
