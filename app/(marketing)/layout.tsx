@@ -9,7 +9,9 @@ const MarketingLayout = ({
   children: React.ReactNode;
 }) => {
   return ( 
-    <div className="h-full text-black">
+
+    // Dark Theme color edit here 
+    <div className="h-full dark:bg-[#030504]">
       <Navbar/>
       <main className="h-[100vh] pt-40">
         {children}

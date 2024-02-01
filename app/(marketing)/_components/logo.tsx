@@ -19,7 +19,16 @@ export const Logo = () => {
             height="40"
             width="40"
             alt="logo"
+            className="dark:hidden"
             />
+             <Image
+            src="/logo-dark.png"
+            height="40"
+            width="40"
+            alt="logo"
+            className="dark:block"
+            />
+
 
             <p className={cn ("font-semibold", font.className
             )}>
