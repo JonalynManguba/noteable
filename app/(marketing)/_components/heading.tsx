@@ -8,12 +8,12 @@ import {  ArrowRight } from "lucide-react";
 export const Heading = () => {
     return (
         <div className="max-w-3xl md:ml-3 md:justify-center space-y-3">
-        <h1 className="text-3xl sm:text-5xl md:text-5xl md:mt-8 font-bold ">
-          Your Ideas, Documents, & Plans. Unified. Welcome to <span className="underline">Noteable</span>
+        <h1 className="text-3xl sm:text-5xl md:text-5xl md:mt-8 font-bold ml-2">
+        Bringing Together Your Ideas, Documents, & Plans. Welcome to <br className="md:hidden" />
+           <span className="underline ml-2">Noteable</span>
         </h1>
         <h3 className="text-base sm:text-xl md:text-2xl font-medium">
-          Noteable is the connected workspace where <br />
-          better, faster work happens.
+          Noteable - Your Fun Spot for Quick, Easy Work and Cool Ideas <br /> All in One Place! 
         </h3>
 
         {/* Task create a route here later */}
