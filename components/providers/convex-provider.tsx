@@ -1,7 +1,10 @@
 // this folder is related with auth.config.js under convex folder 
 
 
-// next step go to 
+// next step go to (marketing ) layout.tsx folder 
+
+// Important make sure to always run a npx convex dev along side npm run dev when running to your local host
+
 "use client";
 
 import { ReactNode } from "react";
