@@ -3,8 +3,8 @@ const DocumentsPage = () => {
 
     return ( 
 
-        <div>
-            This is a protected Page
+        <div> 
+            This Page is still under construction 
         </div>
 
 
